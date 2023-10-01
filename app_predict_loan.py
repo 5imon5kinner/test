@@ -1,7 +1,7 @@
 import streamlit as st
 import urllib.request
 import json
-//
+
 st.title('Loan Prediction App')
 
 # Create a form for user input
